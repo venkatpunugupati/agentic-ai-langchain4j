@@ -1,7 +1,5 @@
 # LangChain4j Port of the ReAct Agent
-
-Week 3 (Days 1–2) of an 8-week Agentic AI upskill sprint: the raw Python
-ReAct agent from Week 2, rebuilt on LangChain4j.
+The raw Python ReAct agent rebuilt on LangChain4j.
 
 ## Stack
 
